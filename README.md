@@ -1,5 +1,5 @@
 ## GERMAN/DEUTSCH
-Hallo, ich bin Hendrik, 20 Jahre alt und studiere Elektrotechnik. 
+Hallo, ich bin Hendrik, 21 Jahre alt und studiere Elektrotechnik. 
 
 ### Fähigkeiten:
 - C
@@ -12,7 +12,7 @@ Hallo, ich bin Hendrik, 20 Jahre alt und studiere Elektrotechnik.
 Ich arbeite sowohl hardwarenah als auch viel mit Robotern.
 
 ## ENGLISH/ENGLISCH
-Hello, I'm Hendrik, a 20-year-old Electrical Engineering student. 
+Hello, I'm Hendrik, a 21-year-old Electrical Engineering student. 
 
 ### Skills:
 - C
