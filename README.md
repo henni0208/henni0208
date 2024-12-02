@@ -6,7 +6,7 @@ Hallo, ich bin Hendrik, 21 Jahre alt und studiere Elektrotechnik.
 - C++
 - C#
 - Java
-- HTML & PHP& CSS
+- HTML & PHP & CSS
 - SQL
 
 Ich arbeite sowohl hardwarenah als auch viel mit Robotern.
