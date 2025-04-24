@@ -9,7 +9,7 @@ Hallo, ich bin Hendrik, 21 Jahre alt und studiere Elektrotechnik.
 - HTML & PHP & CSS
 - SQL
 
-Ich arbeite hardwarenah, insbesondere mit Mikrocontrollern, und beschäftige mich intensiv mit Robotik, einschließlich ABB-Robotern, selbstgebauten Robotern und seit neustem ein wenig mit ROS 2.
+Ich arbeite hardwarenah, insbesondere mit Mikrocontrollern, und beschäftige mich intensiv mit Robotik, einschließlich ABB-Robotern, selbstgebauten Robotern und seit neustem ein wenig mit ROS 2 und RMF.
 
 ## ENGLISH/ENGLISCH
 Hello, I'm Hendrik, a 21-year-old Electrical Engineering student. 
@@ -22,4 +22,4 @@ Hello, I'm Hendrik, a 21-year-old Electrical Engineering student.
 - HTML & PHP & CSS
 - SQL
 
-I work closely with hardware, particularly microcontrollers, and have extensive experience in robotics, including ABB robots, custom-built robots, and most recently, a bit with ROS 2.
+I work closely with hardware, particularly microcontrollers, and have extensive experience in robotics, including ABB robots, custom-built robots, and most recently, a bit with ROS 2 and RMF.
