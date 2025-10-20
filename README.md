@@ -1,7 +1,7 @@
 ## GERMAN/DEUTSCH
 Hallo, ich bin Hendrik, 22 Jahre alt und studiere Elektrotechnik. 
 
-### Fähigkeiten:
+### Programmiersprachen:
 - C
 - C++
 - C#
@@ -14,7 +14,7 @@ Ich arbeite hardwarenah, insbesondere mit Mikrocontrollern, und beschäftige mic
 ## ENGLISH/ENGLISCH
 Hello, I'm Hendrik, a 22-year-old Electrical Engineering student. 
 
-### Skills:
+### Programming languages:
 - C
 - C++
 - C#
