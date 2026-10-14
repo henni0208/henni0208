@@ -1,5 +1,5 @@
 ## GERMAN/DEUTSCH
-Hallo, ich bin Hendrik, 22 Jahre alt und Elektroingenieur. 
+Hallo, ich bin Hendrik, 23 Jahre alt und Elektroingenieur. 
 
 ### Programmiersprachen:
 - C
@@ -11,7 +11,7 @@ Hallo, ich bin Hendrik, 22 Jahre alt und Elektroingenieur.
 
 Ich arbeite hardwarenah, insbesondere mit Mikrocontrollern, und beschäftige mich intensiv mit Robotik, einschließlich ABB-Robotern, selbstgebauten Robotern und seit neustem ein wenig mit ROS 2 und RMF, wobei ich mich sehr für diese Themen interessiere und versuche besser zu werden. Ich entwerfe auch eigene PCBs, allerdings ohne Fokus auf Hochfrequenztechnik, sondern eher im Bereich Mikrocontroller.
 ## ENGLISH/ENGLISCH
-Hello, I'm Hendrik, a 22-year-old electrical engineer. 
+Hello, I'm Hendrik, a 23-year-old electrical engineer. 
 
 ### Programming languages:
 - C
